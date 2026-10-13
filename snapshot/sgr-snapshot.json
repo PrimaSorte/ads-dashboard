@@ -204,5 +204,7 @@
   ],
   "segmentNoteA3": "Usare A3 solo se confermato il segmento multi-operatore."
  },
- "contesto": "SGR = Semplificazione, Gestione e Razionalizzazione: servizi, persone e strumenti Bquadro per organizzare gli acquisti dei materiali di consumo dello studio odontoiatrico. Non e' un software, non e' un magazzino automatico, non sono sconti. L'idea: non comprare a meno, liberare risorse oggi bloccate in acquisti dispersivi."
+ "contesto": "SGR = Semplificazione, Gestione e Razionalizzazione: servizi, persone e strumenti Bquadro per organizzare gli acquisti dei materiali di consumo dello studio odontoiatrico. Non e' un software, non e' un magazzino automatico, non sono sconti. L'idea: non comprare a meno, liberare risorse oggi bloccate in acquisti dispersivi.",
+ "cliente": "Bquadro Astidental",
+ "sistema": "SGR System"
 }

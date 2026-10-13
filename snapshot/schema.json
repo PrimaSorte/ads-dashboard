@@ -92,6 +92,12 @@
   },
   "testWaves": {
    "type": "object"
+  },
+  "cliente": {
+   "type": "string"
+  },
+  "sistema": {
+   "type": "string"
   }
  },
  "required": [

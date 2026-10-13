@@ -17,7 +17,9 @@ Come TickTick ha note e template di task con default, anche quest'area ha i suoi
 - **tessera di default**: ogni tessera ha nome, hook, problema e formato;
 - **task di default**: ogni task è collegato a una tessera e ha uno stato di lavorazione.
 
-Quando costruisci, tieni separati lo scheletro (vista task + tessere + default) dai contenuti SGR: lo scheletro dovrà poter ospitare altre aree dopo questa.
+## Per chi è quest'area
+
+Il cliente è **Bquadro Astidental** (campo `cliente`); **SGR System** è il sistema su cui fa le ads (campo `sistema`). Le ads avranno altri sottoclienti dopo questo: costruisci i contenitori (lista task + tessere + default) in modo che domani possano ospitare altri contenuti oltre SGR, senza rifarli.
 
 ## Dati da usare
 
