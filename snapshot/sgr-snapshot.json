@@ -7,15 +7,14 @@
     "riduzione complessita' evitabile",
     "base misurabile per intervenire"
    ],
-   "code": "A1",
    "hook": "Il prezzo dei materiali e' solo una parte di quanto costa acquistare per il tuo studio.",
-   "mechanism": "mappatura di referenze, ordini, fornitori, scorte e tempo del team",
    "name": "Il costo che non compare in fattura",
    "pain": "il titolare guarda il prezzo unitario ma non vede il costo del processo",
    "consapevolezza": "L2",
    "ondataTest": "first",
    "provaNecessaria": "esempio anonimo di analisi prima/dopo, con criteri di calcolo",
-   "rischioDaEvitare": "non trasformare il concetto in una percentuale di risparmio non documentata"
+   "rischioDaEvitare": "non trasformare il concetto in una percentuale di risparmio non documentata",
+   "formato": "da definire"
   },
   {
    "benefits": [
@@ -23,15 +22,14 @@
     "responsabilita' piu' chiare",
     "maggiore continuita' organizzativa"
    ],
-   "code": "A2",
    "hook": "Quanto tempo del tuo team finisce ogni settimana tra controlli, scorte, ordini e urgenze?",
-   "mechanism": "processo condiviso di riordino, soglie e strumenti digitali verificati",
    "name": "Il personale non dovrebbe inseguire gli ordini",
    "pain": "tempo operativo sottratto ad attivita' di studio e pazienti",
    "consapevolezza": "L2",
    "ondataTest": "first",
    "provaNecessaria": "walkthrough del processo attuale e di quello SGR; eventuali ore misurate in un caso reale",
-   "rischioDaEvitare": "non promettere tempi fissi, 'zero lavoro' o automazione totale"
+   "rischioDaEvitare": "non promettere tempi fissi, 'zero lavoro' o automazione totale",
+   "formato": "da definire"
   },
   {
    "benefits": [
@@ -40,15 +38,14 @@
     "confronto interno piu' semplice",
     "scorte piu' coerenti"
    ],
-   "code": "A3",
    "hook": "Quando piu' professionisti scelgono referenze diverse, il magazzino cresce prima del valore prodotto.",
-   "mechanism": "revisione condivisa del mix, nel rispetto delle esigenze cliniche",
    "name": "Uno studio, troppe versioni dello stesso acquisto",
    "pain": "duplicazioni e frammentazione negli studi multi-operatore",
    "consapevolezza": "L2-L3",
    "ondataTest": "first",
    "provaNecessaria": "esempio reale di famiglie prodotto analizzate e criteri di razionalizzazione",
-   "rischioDaEvitare": "non comunicare 'Bquadro decide cosa devi usare'"
+   "rischioDaEvitare": "non comunicare 'Bquadro decide cosa devi usare'",
+   "formato": "da definire"
   },
   {
    "benefits": [
@@ -57,15 +54,14 @@
     "responsabilita' definite",
     "processo misurabile"
    ],
-   "code": "A4",
    "hook": "Digitalizzare un processo disordinato non lo rende automaticamente efficiente.",
-   "mechanism": "consulenza e analisi prima dello strumento; configurazione del flusso dopo le scelte condivise",
    "name": "Non serve un'altra app se prima non cambia il processo",
    "pain": "strumenti acquistati ma non adottati o usati sopra un processo frammentato",
    "consapevolezza": "L3",
    "ondataTest": "second",
    "provaNecessaria": "demo autentica, confini delle funzioni, descrizione implementazione",
-   "rischioDaEvitare": "evitare attacchi generici ai software; chiarire quali strumenti SGR usa davvero"
+   "rischioDaEvitare": "evitare attacchi generici ai software; chiarire quali strumenti SGR usa davvero",
+   "formato": "da definire"
   },
   {
    "benefits": [
@@ -73,15 +69,14 @@
     "controllo del costo totale",
     "continuita' nel tempo"
    ],
-   "code": "A5",
    "hook": "Se il vantaggio finisce con lo sconto sulla prossima scatola, il processo non e' cambiato.",
-   "mechanism": "analisi, razionalizzazione condivisa, flusso digitale e misurazione",
    "name": "Metodo, non sconto",
    "pain": "la ricerca del prezzo piu' basso non risolve frammentazione, tempo e scorte",
    "consapevolezza": "L3",
    "ondataTest": "second",
    "provaNecessaria": "criteri economici verificabili e caso che separi prezzo unitario da costo di processo",
-   "rischioDaEvitare": "non negare il valore del prezzo ne' affermare convenienza assoluta"
+   "rischioDaEvitare": "non negare il valore del prezzo ne' affermare convenienza assoluta",
+   "formato": "da definire"
   }
  ],
  "blockers": {
@@ -208,5 +203,6 @@
    "A3 solo se Sergio e Matteo confermano lo studio multi-operatore come prioritario"
   ],
   "segmentNoteA3": "Usare A3 solo se confermato il segmento multi-operatore."
- }
+ },
+ "contesto": "SGR = Semplificazione, Gestione e Razionalizzazione: servizi, persone e strumenti Bquadro per organizzare gli acquisti dei materiali di consumo dello studio odontoiatrico. Non e' un software, non e' un magazzino automatico, non sono sconti. L'idea: non comprare a meno, liberare risorse oggi bloccate in acquisti dispersivi."
 }

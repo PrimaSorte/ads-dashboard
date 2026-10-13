@@ -40,11 +40,10 @@
      }
     },
     "required": [
-     "code",
      "name",
      "hook",
      "pain",
-     "mechanism",
+     "formato",
      "benefits",
      "consapevolezza",
      "ondataTest",
