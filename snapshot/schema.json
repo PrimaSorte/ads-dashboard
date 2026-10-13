@@ -1,1 +1,108 @@
-{"$schema":"http://json-schema.org/draft-07/schema#","description":"Contratto stabile ads-dashboard v1. Il rubinetto RAG futuro deve produrre questo formato.","properties":{"angles":{"items":{"properties":{"benefits":{"type":"array"},"code":{"type":"string"},"hook":{"type":"string"},"mechanism":{"type":"string"},"name":{"type":"string"},"pain":{"type":"string"},"proofNeeded":{"type":"string"},"risk":{"type":"string"},"stage":{"type":"string"},"wave":{"enum":["first","second"]}},"required":["code","name","hook","pain","mechanism","benefits","stage","wave","proofNeeded","risk"],"type":"object"},"type":"array"},"blockers":{"type":"object"},"claimGate":{"type":"object"},"contractVersion":{"const":"1.0.0"},"ctas":{"type":"array"},"diagnosis":{"type":"object"},"frozenAt":{"type":"string"},"landing":{"type":"object"},"offerHypothesis":{"type":"object"},"positioning":{"type":"object"},"snapshot":{"type":"string"},"sources":{"type":"array"},"status":{"type":"string"},"testWaves":{"type":"object"}},"required":["contractVersion","snapshot","status","frozenAt","angles","claimGate"],"title":"ads-dashboard snapshot","type":"object"}
+{
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "description": "Contratto stabile ads-dashboard v1. Il rubinetto RAG futuro deve produrre questo formato.",
+ "properties": {
+  "angles": {
+   "items": {
+    "properties": {
+     "benefits": {
+      "type": "array"
+     },
+     "code": {
+      "type": "string"
+     },
+     "hook": {
+      "type": "string"
+     },
+     "mechanism": {
+      "type": "string"
+     },
+     "name": {
+      "type": "string"
+     },
+     "pain": {
+      "type": "string"
+     },
+     "proofNeeded": {
+      "type": "string"
+     },
+     "risk": {
+      "type": "string"
+     },
+     "stage": {
+      "type": "string"
+     },
+     "wave": {
+      "enum": [
+       "first",
+       "second"
+      ]
+     }
+    },
+    "required": [
+     "code",
+     "name",
+     "hook",
+     "pain",
+     "mechanism",
+     "benefits",
+     "consapevolezza",
+     "ondataTest",
+     "provaNecessaria",
+     "rischioDaEvitare"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "blockers": {
+   "type": "object"
+  },
+  "claimGate": {
+   "type": "object"
+  },
+  "contractVersion": {
+   "const": "1.0.0"
+  },
+  "ctas": {
+   "type": "array"
+  },
+  "diagnosis": {
+   "type": "object"
+  },
+  "frozenAt": {
+   "type": "string"
+  },
+  "landing": {
+   "type": "object"
+  },
+  "offerHypothesis": {
+   "type": "object"
+  },
+  "positioning": {
+   "type": "object"
+  },
+  "snapshot": {
+   "type": "string"
+  },
+  "sources": {
+   "type": "array"
+  },
+  "status": {
+   "type": "string"
+  },
+  "testWaves": {
+   "type": "object"
+  }
+ },
+ "required": [
+  "contractVersion",
+  "snapshot",
+  "status",
+  "frozenAt",
+  "angles",
+  "claimGate"
+ ],
+ "title": "ads-dashboard snapshot",
+ "type": "object"
+}

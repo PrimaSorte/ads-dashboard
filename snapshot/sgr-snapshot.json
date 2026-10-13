@@ -1,1 +1,212 @@
-{"angles":[{"benefits":["visibilita'","decisioni basate su dati","riduzione complessita' evitabile","base misurabile per intervenire"],"code":"A1","hook":"Il prezzo dei materiali e' solo una parte di quanto costa acquistare per il tuo studio.","mechanism":"mappatura di referenze, ordini, fornitori, scorte e tempo del team","name":"Il costo che non compare in fattura","pain":"il titolare guarda il prezzo unitario ma non vede il costo del processo","proofNeeded":"esempio anonimo di analisi prima/dopo, con criteri di calcolo","risk":"non trasformare il concetto in una percentuale di risparmio non documentata","stage":"L2","wave":"first"},{"benefits":["meno passaggi manuali","responsabilita' piu' chiare","maggiore continuita' organizzativa"],"code":"A2","hook":"Quanto tempo del tuo team finisce ogni settimana tra controlli, scorte, ordini e urgenze?","mechanism":"processo condiviso di riordino, soglie e strumenti digitali verificati","name":"Il personale non dovrebbe inseguire gli ordini","pain":"tempo operativo sottratto ad attivita' di studio e pazienti","proofNeeded":"walkthrough del processo attuale e di quello SGR; eventuali ore misurate in un caso reale","risk":"non promettere tempi fissi, 'zero lavoro' o automazione totale","stage":"L2","wave":"first"},{"benefits":["mix piu' leggibile","meno sovrapposizioni","confronto interno piu' semplice","scorte piu' coerenti"],"code":"A3","hook":"Quando piu' professionisti scelgono referenze diverse, il magazzino cresce prima del valore prodotto.","mechanism":"revisione condivisa del mix, nel rispetto delle esigenze cliniche","name":"Uno studio, troppe versioni dello stesso acquisto","pain":"duplicazioni e frammentazione negli studi multi-operatore","proofNeeded":"esempio reale di famiglie prodotto analizzate e criteri di razionalizzazione","risk":"non comunicare 'Bquadro decide cosa devi usare'","stage":"L2-L3","wave":"first"},{"benefits":["tecnologia collegata al lavoro reale","adozione piu' chiara","responsabilita' definite","processo misurabile"],"code":"A4","hook":"Digitalizzare un processo disordinato non lo rende automaticamente efficiente.","mechanism":"consulenza e analisi prima dello strumento; configurazione del flusso dopo le scelte condivise","name":"Non serve un'altra app se prima non cambia il processo","pain":"strumenti acquistati ma non adottati o usati sopra un processo frammentato","proofNeeded":"demo autentica, confini delle funzioni, descrizione implementazione","risk":"evitare attacchi generici ai software; chiarire quali strumenti SGR usa davvero","stage":"L3","wave":"second"},{"benefits":["decisioni piu' consapevoli","controllo del costo totale","continuita' nel tempo"],"code":"A5","hook":"Se il vantaggio finisce con lo sconto sulla prossima scatola, il processo non e' cambiato.","mechanism":"analisi, razionalizzazione condivisa, flusso digitale e misurazione","name":"Metodo, non sconto","pain":"la ricerca del prezzo piu' basso non risolve frammentazione, tempo e scorte","proofNeeded":"criteri economici verificabili e caso che separi prezzo unitario da costo di processo","risk":"non negare il valore del prezzo ne' affermare convenienza assoluta","stage":"L3","wave":"second"}],"blockers":{"forLucaViviana":["Confermare obiettivo prima campagna e azione di conversione","Confermare campagna, landing, tracking e raccolta lead separati dall'implantologia","Definire stati commerciali: lead, contattato, qualificato, appuntamento, proposta, vendita","Scegliere primi 2-3 angoli dopo confronto con Sergio e Matteo","Riconfermare perimetro geografico, budget e data con autorizzazione attuale separata"],"forSergioMatteo":["Primo segmento: studio singolo, multi-operatore o network?","Primo passo commerciale reale: analisi, demo, consulenza o preventivo?","Svolgimento SGR da ingresso a implementazione","Funzioni incluse vs integrazioni/setup","Gestione preferenze cliniche nella razionalizzazione","Risultati documentabili: periodo e baseline","Materiali autorizzati: schermate, foto, casi, testimonianze","Cosa significa 'magazzino automatico' rispetto a SGR System?"]},"claimGate":{"forbiddenWithoutProof":["unico al mondo","percentuali o importi di risparmio","-70% item e -55% incidenza dei costi","zero sprechi","consegna garantita in 24 ore","tempi certi di inventario o implementazione","automazione totale","qualunque garanzia economica","numeri di catalogo non allineati tra le fonti"],"note":"Non fare della logistica una promessa centrale finche' non e' confermata la stabilizzazione dei disagi segnalati nel brief generale."},"contractVersion":"1.0.0","ctas":[{"label":"Analizza il processo di acquisto del tuo studio","when":"se l'analisi e' realmente l'offerta"},{"label":"Parliamo degli acquisti del tuo studio","when":"se il primo passo e' un confronto commerciale"},{"label":"Richiedi una demo del sistema SGR","when":"solo se demo disponibile, rappresentativa e approvata"}],"diagnosis":{"marketSophistication":"Ipotesi di lavoro: L3 nel linguaggio commerciale generale (scetticismo verso promesse generiche), L1-L2 nella categoria specifica (sistema coordinato poco noto). Non assegnare un livello definitivo senza ricognizione competitor.","primaryAwareness":"L2, consapevole del problema. Il titolare riconosce sintomi (urgenze, tempo negli ordini, molte referenze, piu' fornitori) ma non necessariamente come unico problema economico-organizzativo, e puo' non conoscere la categoria di soluzione integrata.","secondaryAwareness":"Una parte dei prospect puo' essere L3 (ha valutato gestionali, portali acquisto, inventari digitali, accordi fornitori): spiegare perche' SGR non e' una singola app ne' un nuovo catalogo."},"frozenAt":"2026-10-13","landing":{"draftHeadline":"Il tuo studio compra materiali. Ma quanto ti costa il modo in cui li gestite?","draftNote":"Copy in bozza, NON approvato dal cliente. Puntatori, non testo da pubblicare.","googleDocCopyId":"1HaZCHqXFrPhwzFc84saOAzwezxPcibN6KTNFL8TI-EE","googleDocStrategyId":"1xrIIn4KunQ8EHgPoZJY-5deULrafTE-DBPUCcwySqcU","openBeforePublish":["QA visiva desktop/mobile","foto autentiche Bquadro o conferma stock","logo ufficiale","privacy, consenso, CRM, pagina conferma","percorso commerciale e tempi ricontatto","approvazione copy e formula stima"],"status":"bozza locale v2, noindex, form disattivato","workingCopyUrl":"https://bquadro-sgr-working-copy.vercel.app"},"offerHypothesis":{"label":"Analisi del processo di acquisto dello studio","perceivedValue":["dove si concentra oggi la complessita'","quali aree meritano verifica","se c'e' spazio per razionalizzare senza penalizzare il lavoro clinico","quale percorso servirebbe per un processo piu' governabile"],"unconfirmed":["cosa riceve concretamente il lead","quali dati deve fornire","chi svolge l'analisi","durata e modalita'","eventuale costo","output consegnato","criteri di ammissione","tempi di ricontatto"]},"positioning":{"core":"Non comprare semplicemente a meno. Liberare risorse oggi bloccate in un processo di acquisto dispersivo.","newCause":"Il problema non e' necessariamente 'comprare male'. E' gestire gli acquisti come somma di decisioni separate, senza un processo unico e misurabile.","notThis":["software","magazzino automatico","programma sconti"],"problem":"Il costo di acquisto non e' solo il prezzo della confezione: tempo del team, frammentazione ordini, urgenze, scorte ferme, referenze e fornitori non coordinati.","sgrMethod":["Fotografare acquisti, referenze, fornitori e scorte","Individuare duplicazioni e complessita' evitabili","Concordare cosa razionalizzare senza ostacolare le preferenze cliniche","Impostare flusso di riordino e gestione scorte con gli strumenti appropriati","Misurare il cambiamento sul costo complessivo del processo"],"transformation":"Da acquisti distribuiti tra persone, fornitori e urgenze a un processo leggibile, condiviso e misurabile."},"snapshot":"SGR System per studi odontoiatrici","sources":["Email Sergio Campini 11 settembre 2026 (posizionamento, tre pilastri, spunti)","Call Marketing Astidental 28 agosto, 7 e 24 settembre 2026 (sintesi da brief)","Pagina ufficiale Bquadro SGR System (dichiarazioni, non validazione)"],"status":"bozza di lavoro. NON copy approvato, NON autorizzazione alla pubblicazione","testWaves":{"retargetingOrSecond":["A4 per chi conosce soluzioni digitali o ha visitato la landing","A5 per differenziare SGR dai fornitori puramente commerciali"],"rule":"Ogni angolo deve avere creative realmente diverse per scena e struttura, non solo headline diverse sullo stesso visual.","second":["A3 solo se Sergio e Matteo confermano lo studio multi-operatore come prioritario"],"segmentNoteA3":"Usare A3 solo se confermato il segmento multi-operatore."}}
+{
+ "angles": [
+  {
+   "benefits": [
+    "visibilita'",
+    "decisioni basate su dati",
+    "riduzione complessita' evitabile",
+    "base misurabile per intervenire"
+   ],
+   "code": "A1",
+   "hook": "Il prezzo dei materiali e' solo una parte di quanto costa acquistare per il tuo studio.",
+   "mechanism": "mappatura di referenze, ordini, fornitori, scorte e tempo del team",
+   "name": "Il costo che non compare in fattura",
+   "pain": "il titolare guarda il prezzo unitario ma non vede il costo del processo",
+   "consapevolezza": "L2",
+   "ondataTest": "first",
+   "provaNecessaria": "esempio anonimo di analisi prima/dopo, con criteri di calcolo",
+   "rischioDaEvitare": "non trasformare il concetto in una percentuale di risparmio non documentata"
+  },
+  {
+   "benefits": [
+    "meno passaggi manuali",
+    "responsabilita' piu' chiare",
+    "maggiore continuita' organizzativa"
+   ],
+   "code": "A2",
+   "hook": "Quanto tempo del tuo team finisce ogni settimana tra controlli, scorte, ordini e urgenze?",
+   "mechanism": "processo condiviso di riordino, soglie e strumenti digitali verificati",
+   "name": "Il personale non dovrebbe inseguire gli ordini",
+   "pain": "tempo operativo sottratto ad attivita' di studio e pazienti",
+   "consapevolezza": "L2",
+   "ondataTest": "first",
+   "provaNecessaria": "walkthrough del processo attuale e di quello SGR; eventuali ore misurate in un caso reale",
+   "rischioDaEvitare": "non promettere tempi fissi, 'zero lavoro' o automazione totale"
+  },
+  {
+   "benefits": [
+    "mix piu' leggibile",
+    "meno sovrapposizioni",
+    "confronto interno piu' semplice",
+    "scorte piu' coerenti"
+   ],
+   "code": "A3",
+   "hook": "Quando piu' professionisti scelgono referenze diverse, il magazzino cresce prima del valore prodotto.",
+   "mechanism": "revisione condivisa del mix, nel rispetto delle esigenze cliniche",
+   "name": "Uno studio, troppe versioni dello stesso acquisto",
+   "pain": "duplicazioni e frammentazione negli studi multi-operatore",
+   "consapevolezza": "L2-L3",
+   "ondataTest": "first",
+   "provaNecessaria": "esempio reale di famiglie prodotto analizzate e criteri di razionalizzazione",
+   "rischioDaEvitare": "non comunicare 'Bquadro decide cosa devi usare'"
+  },
+  {
+   "benefits": [
+    "tecnologia collegata al lavoro reale",
+    "adozione piu' chiara",
+    "responsabilita' definite",
+    "processo misurabile"
+   ],
+   "code": "A4",
+   "hook": "Digitalizzare un processo disordinato non lo rende automaticamente efficiente.",
+   "mechanism": "consulenza e analisi prima dello strumento; configurazione del flusso dopo le scelte condivise",
+   "name": "Non serve un'altra app se prima non cambia il processo",
+   "pain": "strumenti acquistati ma non adottati o usati sopra un processo frammentato",
+   "consapevolezza": "L3",
+   "ondataTest": "second",
+   "provaNecessaria": "demo autentica, confini delle funzioni, descrizione implementazione",
+   "rischioDaEvitare": "evitare attacchi generici ai software; chiarire quali strumenti SGR usa davvero"
+  },
+  {
+   "benefits": [
+    "decisioni piu' consapevoli",
+    "controllo del costo totale",
+    "continuita' nel tempo"
+   ],
+   "code": "A5",
+   "hook": "Se il vantaggio finisce con lo sconto sulla prossima scatola, il processo non e' cambiato.",
+   "mechanism": "analisi, razionalizzazione condivisa, flusso digitale e misurazione",
+   "name": "Metodo, non sconto",
+   "pain": "la ricerca del prezzo piu' basso non risolve frammentazione, tempo e scorte",
+   "consapevolezza": "L3",
+   "ondataTest": "second",
+   "provaNecessaria": "criteri economici verificabili e caso che separi prezzo unitario da costo di processo",
+   "rischioDaEvitare": "non negare il valore del prezzo ne' affermare convenienza assoluta"
+  }
+ ],
+ "blockers": {
+  "forLucaViviana": [
+   "Confermare obiettivo prima campagna e azione di conversione",
+   "Confermare campagna, landing, tracking e raccolta lead separati dall'implantologia",
+   "Definire stati commerciali: lead, contattato, qualificato, appuntamento, proposta, vendita",
+   "Scegliere primi 2-3 angoli dopo confronto con Sergio e Matteo",
+   "Riconfermare perimetro geografico, budget e data con autorizzazione attuale separata"
+  ],
+  "forSergioMatteo": [
+   "Primo segmento: studio singolo, multi-operatore o network?",
+   "Primo passo commerciale reale: analisi, demo, consulenza o preventivo?",
+   "Svolgimento SGR da ingresso a implementazione",
+   "Funzioni incluse vs integrazioni/setup",
+   "Gestione preferenze cliniche nella razionalizzazione",
+   "Risultati documentabili: periodo e baseline",
+   "Materiali autorizzati: schermate, foto, casi, testimonianze",
+   "Cosa significa 'magazzino automatico' rispetto a SGR System?"
+  ]
+ },
+ "claimGate": {
+  "forbiddenWithoutProof": [
+   "unico al mondo",
+   "percentuali o importi di risparmio",
+   "-70% item e -55% incidenza dei costi",
+   "zero sprechi",
+   "consegna garantita in 24 ore",
+   "tempi certi di inventario o implementazione",
+   "automazione totale",
+   "qualunque garanzia economica",
+   "numeri di catalogo non allineati tra le fonti"
+  ],
+  "note": "Non fare della logistica una promessa centrale finche' non e' confermata la stabilizzazione dei disagi segnalati nel brief generale."
+ },
+ "contractVersion": "1.0.0",
+ "ctas": [
+  {
+   "label": "Analizza il processo di acquisto del tuo studio",
+   "when": "se l'analisi e' realmente l'offerta"
+  },
+  {
+   "label": "Parliamo degli acquisti del tuo studio",
+   "when": "se il primo passo e' un confronto commerciale"
+  },
+  {
+   "label": "Richiedi una demo del sistema SGR",
+   "when": "solo se demo disponibile, rappresentativa e approvata"
+  }
+ ],
+ "diagnosis": {
+  "marketSophistication": "Ipotesi di lavoro: L3 nel linguaggio commerciale generale (scetticismo verso promesse generiche), L1-L2 nella categoria specifica (sistema coordinato poco noto). Non assegnare un livello definitivo senza ricognizione competitor.",
+  "primaryAwareness": "L2, consapevole del problema. Il titolare riconosce sintomi (urgenze, tempo negli ordini, molte referenze, piu' fornitori) ma non necessariamente come unico problema economico-organizzativo, e puo' non conoscere la categoria di soluzione integrata.",
+  "secondaryAwareness": "Una parte dei prospect puo' essere L3 (ha valutato gestionali, portali acquisto, inventari digitali, accordi fornitori): spiegare perche' SGR non e' una singola app ne' un nuovo catalogo."
+ },
+ "frozenAt": "2026-10-13",
+ "landing": {
+  "draftHeadline": "Il tuo studio compra materiali. Ma quanto ti costa il modo in cui li gestite?",
+  "draftNote": "Copy in bozza, NON approvato dal cliente. Puntatori, non testo da pubblicare.",
+  "googleDocCopyId": "1HaZCHqXFrPhwzFc84saOAzwezxPcibN6KTNFL8TI-EE",
+  "googleDocStrategyId": "1xrIIn4KunQ8EHgPoZJY-5deULrafTE-DBPUCcwySqcU",
+  "openBeforePublish": [
+   "QA visiva desktop/mobile",
+   "foto autentiche Bquadro o conferma stock",
+   "logo ufficiale",
+   "privacy, consenso, CRM, pagina conferma",
+   "percorso commerciale e tempi ricontatto",
+   "approvazione copy e formula stima"
+  ],
+  "status": "bozza locale v2, noindex, form disattivato",
+  "workingCopyUrl": "https://bquadro-sgr-working-copy.vercel.app"
+ },
+ "offerHypothesis": {
+  "label": "Analisi del processo di acquisto dello studio",
+  "perceivedValue": [
+   "dove si concentra oggi la complessita'",
+   "quali aree meritano verifica",
+   "se c'e' spazio per razionalizzare senza penalizzare il lavoro clinico",
+   "quale percorso servirebbe per un processo piu' governabile"
+  ],
+  "unconfirmed": [
+   "cosa riceve concretamente il lead",
+   "quali dati deve fornire",
+   "chi svolge l'analisi",
+   "durata e modalita'",
+   "eventuale costo",
+   "output consegnato",
+   "criteri di ammissione",
+   "tempi di ricontatto"
+  ]
+ },
+ "positioning": {
+  "core": "Non comprare semplicemente a meno. Liberare risorse oggi bloccate in un processo di acquisto dispersivo.",
+  "newCause": "Il problema non e' necessariamente 'comprare male'. E' gestire gli acquisti come somma di decisioni separate, senza un processo unico e misurabile.",
+  "notThis": [
+   "software",
+   "magazzino automatico",
+   "programma sconti"
+  ],
+  "problem": "Il costo di acquisto non e' solo il prezzo della confezione: tempo del team, frammentazione ordini, urgenze, scorte ferme, referenze e fornitori non coordinati.",
+  "sgrMethod": [
+   "Fotografare acquisti, referenze, fornitori e scorte",
+   "Individuare duplicazioni e complessita' evitabili",
+   "Concordare cosa razionalizzare senza ostacolare le preferenze cliniche",
+   "Impostare flusso di riordino e gestione scorte con gli strumenti appropriati",
+   "Misurare il cambiamento sul costo complessivo del processo"
+  ],
+  "transformation": "Da acquisti distribuiti tra persone, fornitori e urgenze a un processo leggibile, condiviso e misurabile."
+ },
+ "snapshot": "SGR System per studi odontoiatrici",
+ "sources": [
+  "Email Sergio Campini 11 settembre 2026 (posizionamento, tre pilastri, spunti)",
+  "Call Marketing Astidental 28 agosto, 7 e 24 settembre 2026 (sintesi da brief)",
+  "Pagina ufficiale Bquadro SGR System (dichiarazioni, non validazione)"
+ ],
+ "status": "bozza di lavoro. NON copy approvato, NON autorizzazione alla pubblicazione",
+ "testWaves": {
+  "retargetingOrSecond": [
+   "A4 per chi conosce soluzioni digitali o ha visitato la landing",
+   "A5 per differenziare SGR dai fornitori puramente commerciali"
+  ],
+  "rule": "Ogni angolo deve avere creative realmente diverse per scena e struttura, non solo headline diverse sullo stesso visual.",
+  "second": [
+   "A3 solo se Sergio e Matteo confermano lo studio multi-operatore come prioritario"
+  ],
+  "segmentNoteA3": "Usare A3 solo se confermato il segmento multi-operatore."
+ }
+}
