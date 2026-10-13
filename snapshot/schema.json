@@ -96,8 +96,11 @@
   "cliente": {
    "type": "string"
   },
-  "sistema": {
+  "offerta": {
    "type": "string"
+  },
+  "naming": {
+   "type": "object"
   }
  },
  "required": [

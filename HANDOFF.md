@@ -19,7 +19,11 @@ Come TickTick ha note e template di task con default, anche quest'area ha i suoi
 
 ## Per chi è quest'area
 
-Il cliente è **Bquadro Astidental** (campo `cliente`); **SGR System** è il sistema su cui fa le ads (campo `sistema`). Le ads avranno altri sottoclienti dopo questo: costruisci i contenitori (lista task + tessere + default) in modo che domani possano ospitare altri contenuti oltre SGR, senza rifarli.
+Il cliente è **Bquadro Astidental** (campo `cliente`); **SGR System** è l'offerta su cui fa le ads (campo `offerta`). Le ads avranno altri sottoclienti dopo questo: costruisci i contenitori (lista task + tessere + default) in modo che domani possano ospitare altri contenuti oltre SGR, senza rifarli.
+
+## Come si chiama ciò che esce
+
+Leggi il campo `naming` dello snapshot: la catena è Offerta → Angolo → Headline → Creatività numerate, e il nome segue il template `[OFFERTA]_[ANGOLO]_[HEADLINE]_[FORMATO]-[ITERAZIONE]`. Le tessere e i task usano gli stessi nomi.
 
 ## Dati da usare
 

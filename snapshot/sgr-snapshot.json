@@ -206,5 +206,10 @@
  },
  "contesto": "SGR = Semplificazione, Gestione e Razionalizzazione: servizi, persone e strumenti Bquadro per organizzare gli acquisti dei materiali di consumo dello studio odontoiatrico. Non e' un software, non e' un magazzino automatico, non sono sconti. L'idea: non comprare a meno, liberare risorse oggi bloccate in acquisti dispersivi.",
  "cliente": "Bquadro Astidental",
- "sistema": "SGR System"
+ "offerta": "SGR System",
+ "naming": {
+  "chain": "Offerta -> Angolo (A1, A2...) -> Headline per angolo (H1, H2...) -> Creativita' numerate (I1, I2... immagini, V1, V2... video)",
+  "template": "[OFFERTA]_[ANGOLO]_[HEADLINE]_[FORMATO]-[ITERAZIONE]",
+  "example": "Laser_A1_H1_CHAT-I1"
+ }
 }
